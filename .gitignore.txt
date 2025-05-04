@@ -3,4 +3,6 @@ node_modules/
 *.log
 **/target/
 **/src/main/java/*.class
+**/src/main/java/**/*.class
+**/src/main/*.class
 **/pom.xml
