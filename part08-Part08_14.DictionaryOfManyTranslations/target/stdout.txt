@@ -1,0 +1,44 @@
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe]}
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe], cheese=[juusto]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe], milk=[maito], cheese=[juusto]}
+Contenu du dictionnaire après ajout : {word=[sana]}
+Contenu du dictionnaire après ajout : {word=[sana, sana]}
+Contenu du dictionnaire après ajout : {word=[sana, sana, ord]}
+Contenu du dictionnaire après ajout : {word=[sana, sana, ord, translation1]}
+Contenu du dictionnaire après ajout : {word=[sana, sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {word=[sana]}
+Contenu du dictionnaire après ajout : {word=[sana, ord]}
+Contenu du dictionnaire après ajout : {word=[sana, ord, translation1]}
+Contenu du dictionnaire après ajout : {word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3, translation4], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après suppression : {}
+Contenu du dictionnaire après ajout : {monkey=[apina]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe]}
+Contenu du dictionnaire après ajout : {monkey=[apina, apfe], cheese=[juusto]}
+Contenu du dictionnaire après suppression : {cheese=[juusto]}
+Contenu du dictionnaire après ajout : {milk=[maito], cheese=[juusto]}
+Contenu du dictionnaire après ajout : {monkey=[apna], milk=[maito], cheese=[juusto]}
+Contenu du dictionnaire après ajout : {word=[sana]}
+Contenu du dictionnaire après ajout : {word=[sana, ord]}
+Contenu du dictionnaire après ajout : {word=[sana, ord, translation1]}
+Contenu du dictionnaire après ajout : {word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3, translation4], word=[sana, ord, translation1, translation2]}
+Contenu du dictionnaire après suppression : {jungle=[viidakko, vidakkol, translation3, translation4]}
+Contenu du dictionnaire après suppression : {}
+Contenu du dictionnaire après ajout : {jungle=[viidakko]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3]}
+Contenu du dictionnaire après ajout : {jungle=[viidakko, vidakkol, translation3, translation4]}
+Contenu du dictionnaire après suppression : {jungle=[viidakko, vidakkol, translation3, translation4]}
