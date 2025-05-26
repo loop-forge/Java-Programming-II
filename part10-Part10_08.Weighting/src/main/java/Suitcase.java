@@ -21,21 +21,13 @@ public class Suitcase {
 
     public int totalWeight() {
         int summa = 0;
-        int indeksi = 0;
-        while (indeksi < this.Items.size()) {
-        summa += this.Items.get(indeksi).getweight();
-        indeksi++;
-        }
+        summa = this.Items.stream().map(item -> item.getWeight()).reduce(0, (prev, value) -> prev + value);
         return summa;
     }
 
     public void printItems() {
-        int indeksi = 0;
-        while (indeksi < this.Items.size()) {
-        Item t = this.Items.get(indeksi);
-        System.out.println(t);
-        indeksi++;
-        }
+        String output = this.Items.stream().map(item-> item.toString()).reduce("", (prev, newValue) -> prev + newValue + "\n");
+        System.out.println(output); 
     }
 
     public Item heaviestItem() {
